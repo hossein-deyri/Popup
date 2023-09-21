@@ -2,11 +2,11 @@
 
 ![View (2)](https://github.com/hossein-deyri/Popup/assets/136192436/bfa774e0-a9a8-4a94-8576-ead74ab65581)
 
-- [Demo Project](https://hossein-deyri.github.io/First-Project/)
+- [Demo Project](https://hossein-deyri.github.io/Popup/)
 
 - Developed By Hossein Deyri
 
-- Created - 2023-08-26
+- Created - 2023-09-21
 
 - Technologies Used - Html5, Css3, Sass, BootStrap, JavaScript
 
